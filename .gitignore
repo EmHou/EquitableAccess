@@ -1,0 +1,7 @@
+.env
+cache/
+__pycache__/
+venv/
+data/SVI/SVI_2022_US.csv # File is too large to track with git
+.DS_Store
+

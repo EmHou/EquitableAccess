@@ -1,0 +1,51 @@
+POPULATION ACCESSIBILITY ANALYSIS SUMMARY
+==================================================
+
+10 minutes:
+   Car: 656/851 tracts (77.1%)
+            Population: 2,214,198/3,007,010 (73.6%)
+   Transit: 93/851 tracts (10.9%)
+            Population: 327,106/3,007,010 (10.9%)
+   Walking: 50/851 tracts (5.9%)
+            Population: 194,865/3,007,010 (6.5%)
+
+20 minutes:
+   Car: 847/851 tracts (99.5%)
+            Population: 2,993,706/3,007,010 (99.6%)
+   Transit: 498/851 tracts (58.5%)
+            Population: 1,647,376/3,007,010 (54.8%)
+   Walking: 160/851 tracts (18.8%)
+            Population: 547,936/3,007,010 (18.2%)
+
+30 minutes:
+   Car: 851/851 tracts (100.0%)
+            Population: 3,007,010/3,007,010 (100.0%)
+   Transit: 757/851 tracts (89.0%)
+            Population: 2,600,119/3,007,010 (86.5%)
+   Walking: 303/851 tracts (35.6%)
+            Population: 1,036,507/3,007,010 (34.5%)
+
+40 minutes:
+   Car: 851/851 tracts (100.0%)
+            Population: 3,007,010/3,007,010 (100.0%)
+   Transit: 812/851 tracts (95.4%)
+            Population: 2,842,526/3,007,010 (94.5%)
+   Walking: 478/851 tracts (56.2%)
+            Population: 1,612,778/3,007,010 (53.6%)
+
+50 minutes:
+   Car: 851/851 tracts (100.0%)
+            Population: 3,007,010/3,007,010 (100.0%)
+   Transit: 837/851 tracts (98.4%)
+            Population: 2,953,246/3,007,010 (98.2%)
+   Walking: 651/851 tracts (76.5%)
+            Population: 2,203,600/3,007,010 (73.3%)
+
+60 minutes:
+   Car: 851/851 tracts (100.0%)
+            Population: 3,007,010/3,007,010 (100.0%)
+   Transit: 846/851 tracts (99.4%)
+            Population: 2,992,101/3,007,010 (99.5%)
+   Walking: 724/851 tracts (85.1%)
+            Population: 2,476,452/3,007,010 (82.4%)
+

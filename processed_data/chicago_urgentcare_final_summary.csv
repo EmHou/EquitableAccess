@@ -1,0 +1,7 @@
+,distance_km,distance_km,distance_miles,distance_miles
+,median,mean,median,mean
+SVI_q,,,,
+Q1(low),2.204,2.412,1.37,1.499
+Q2,2.27,2.459,1.41,1.528
+Q3,2.238,2.463,1.391,1.53
+Q4(high),2.235,2.339,1.389,1.453
